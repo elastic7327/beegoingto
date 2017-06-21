@@ -5,7 +5,7 @@
 
 # structure
 
-'''
+```
 newbee
 ├── conf
 │   └── app.conf
@@ -26,7 +26,7 @@ newbee
 │   └── default_test.go
 └── views
     └── index.tpl
-'''
+```
 
 # TODO LISTS! 
 
