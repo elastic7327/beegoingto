@@ -30,11 +30,11 @@ newbee
 
 # TODO LISTS! 
 
-  - [] ORM ISSUE, 
-  - [] models.go / main.go orm config split 
-  - [] beego admin panel
-  - [] beego swagger config
-  - [] docker issue export ENV PARAMS
+  - [  ] ORM ISSUE, 
+  - [  ] models.go / main.go orm config split 
+  - [  ] beego admin panel
+  - [  ] beego swagger config
+  - [  ] docker issue export ENV PARAMS
 
 
 
